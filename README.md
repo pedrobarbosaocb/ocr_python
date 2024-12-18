@@ -1,0 +1,1 @@
+# anonimizador_lgpd
